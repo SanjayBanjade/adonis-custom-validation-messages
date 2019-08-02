@@ -1,6 +1,10 @@
 {
-  "name": "adonis-custom-validation-messages",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+    "name": "adonis-custom-validation-messages",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SanjayBanjade/adonis-custom-validation-messages"
+    }
 }
